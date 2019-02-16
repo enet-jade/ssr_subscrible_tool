@@ -1,4 +1,5 @@
 :: input commit message
+:: git add .
 set /p commit_msg=Please input commit message:
 :: show git status
 git status
